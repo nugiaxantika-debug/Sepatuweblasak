@@ -4345,10 +4345,10 @@ Ketik menu yang kamu inginkan.`;
                <rect width="600" height="150" rx="30" fill="rgba(250, 250, 250, 0.95)" stroke="#ddd" stroke-width="2"/>
                <rect x="25" y="25" width="40" height="40" rx="10" fill="#25D366" />
                <path d="M45,35 L45,55 M35,45 L55,45" stroke="white" stroke-width="4" stroke-linecap="round"/>
-               <text x="80" y="52" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#555" letter-spacing="1">WHATSAPP</text>
-               <text x="530" y="52" font-family="Arial, sans-serif" font-size="20" fill="#888">now</text>
-               <text x="25" y="95" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#000">${safePushName}</text>
-               <text x="25" y="130" font-family="Arial, sans-serif" font-size="24" fill="#333">${safeText}</text>
+               <text x="80" y="52" font-family="Liberation Sans, sans-serif" font-size="22" font-weight="bold" fill="#555" letter-spacing="1">WHATSAPP</text>
+               <text x="530" y="52" font-family="Liberation Sans, sans-serif" font-size="20" fill="#888">now</text>
+               <text x="25" y="95" font-family="Liberation Sans, sans-serif" font-size="28" font-weight="bold" fill="#000">${safePushName}</text>
+               <text x="25" y="130" font-family="Liberation Sans, sans-serif" font-size="24" fill="#333">${safeText}</text>
              </svg>`;
              
              const bgBuffer = Buffer.from(svgMeme);
@@ -4446,9 +4446,9 @@ Ketik menu yang kamu inginkan.`;
                <rect width="600" height="150" fill="#202124" />
                <rect x="20" y="25" width="40" height="40" rx="20" fill="#25D366" />
                <path d="M40,35 L40,55 M30,45 L50,45" stroke="white" stroke-width="4" stroke-linecap="round"/>
-               <text x="80" y="45" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="bold" fill="#e8eaed">WhatsApp • now</text>
-               <text x="80" y="85" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">${safePushName}</text>
-               <text x="80" y="125" font-family="Roboto, Arial, sans-serif" font-size="24" fill="#9aa0a6">${safeText}</text>
+               <text x="80" y="45" font-family="Liberation Sans, sans-serif" font-size="20" font-weight="bold" fill="#e8eaed">WhatsApp • now</text>
+               <text x="80" y="85" font-family="Liberation Sans, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">${safePushName}</text>
+               <text x="80" y="125" font-family="Liberation Sans, sans-serif" font-size="24" fill="#9aa0a6">${safeText}</text>
              </svg>`;
              
              const bgBuffer = Buffer.from(svgMeme);
